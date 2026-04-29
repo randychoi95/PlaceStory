@@ -95,3 +95,6 @@ iOSInjectionProject/
 *.xcuserstate
 xcschememanagement.plist
 contents.xcworkspacedata
+
+# Claude Code 로컬 설정
+.claude/settings.local.json
